@@ -533,3 +533,6 @@ Before taking up our main challenges, there were several steps to take:
 -comparison of 3 algorithms
 
    <img src='https://www.google.com/search?q=thank+you+for+your+attention&rlz=1C1PNJJ_frMA933MA933&sxsrf=ALeKk010Chcx5keT8h1C9FshbyPlqYG-pA:1613081448392&tbm=isch&source=iu&ictx=1&fir=OmqVmuVhr7LkIM%252CuJ_UCrRpsn9rgM%252C_&vet=1&usg=AI4_-kTolaOlfYJ4saLHlukoaukZIX3MPw&sa=X&ved=2ahUKEwjCkObV7OLuAhWoUBUIHf3EBf8Q9QF6BAgMEAE#imgrc=OmqVmuVhr7LkIM' width='550cm'>
+
+
+Credits to mohammed Aljaad
